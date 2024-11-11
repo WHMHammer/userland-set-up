@@ -1,0 +1,67 @@
+{
+    "C_Cpp.formatting": "vcFormat",
+    "[css]": {
+        "editor.tabSize": 2
+    },
+    "[html]": {
+        "editor.tabSize": 2
+    },
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "[json]": {
+        "editor.tabSize": 4
+    },
+    "[markdown]": {
+        "editor.tabSize": 2
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "[scss]": {
+        "editor.tabSize": 2
+    },
+    "[typescript]": {
+        "editor.tabSize": 2
+    },
+    "[typescriptreact]": {
+        "editor.tabSize": 2
+    },
+    "better-comments.tags": [
+        {
+            "backgroundColor": "transparent",
+            "bold": true,
+            "color": "#FFFF00",
+            "italic": false,
+            "strikethrough": false,
+            "tag": "todo",
+            "underline": false
+        }
+    ],
+    "diffEditor.ignoreTrimWhitespace": true,
+    "diffEditor.maxComputationTime": 0,
+    "editor.formatOnSaveMode": "modifications",
+    "editor.formatOnType": true,
+    "editor.largeFileOptimizations": false,
+    "editor.quickSuggestionsDelay": 0,
+    "editor.renderWhitespace": "all",
+    "editor.suggest.localityBonus": true,
+    "editor.wordWrap": "on",
+    "editor.wrappingIndent": "indent",
+    "explorer.compactFolders": false,
+    "extensions.ignoreRecommendations": true,
+    "git.autofetch": true,
+    "git.openRepositoryInParentFolders": "always",
+    "html.format.extraLiners": "",
+    "html.format.indentInnerHtml": true,
+    "html.format.wrapLineLength": 0,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "notebook.lineNumbers": "on",
+    "security.workspace.trust.enabled": false,
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "update.showReleaseNotes": false,
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.editor.enablePreview": false,
+    "workbench.startupEditor": "none"
+}
